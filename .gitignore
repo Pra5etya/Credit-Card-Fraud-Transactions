@@ -1,8 +1,16 @@
+# configuration sections
 .env.secret
 .env.shared
 
+# datamart sections
 datamart
 
-note.txt
-
+# model sections
 model/catboost_info
+
+# automate sections
+automate/__pycache__
+automate/__init__.py
+
+# Others
+note.txt
